@@ -1,9 +1,3 @@
-window.prompt('Do you head left or right?')
-let answer  = window.prompt('Do you head left or right?')
-let firstAnswer  = window.prompt('Do you head left or right?')
-console.log(firstAnswer)
-let firstAnswer  = window.prompt('Do you head left or right?')
-console.log(firstAnswer === 'left')
 let firstAnswer  = window.prompt('Do you head left or right?')
 if(firstAnswer === 'left'){
     let secondAnswer = window.prompt(`You come across a stray cat. 
@@ -16,3 +10,4 @@ On the other side of him, you see a shiny chest of treasure. Another path would
 lead you away from the dragon altogether. Which path do you take?`)
 
 }
+
